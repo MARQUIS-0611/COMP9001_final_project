@@ -1,2 +1,2 @@
-# COMP9120_final_project
+# COMP9001_final_project
 WORLD JUMPER
